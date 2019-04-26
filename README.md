@@ -1,6 +1,7 @@
 # Resources for Machine learning
 
-https://user-images.githubusercontent.com/49496684/56809591-81655280-6834-11e9-8091-6e80dbd5f1c0.png
+![introduction-to-machine-learning_social](https://user-images.githubusercontent.com/49496684/56809961-66dfa900-6835-11e9-950f-d1456b7061d1.png)
+
 
 ## The repository contains 
 * 1. K_nearest neighbour
